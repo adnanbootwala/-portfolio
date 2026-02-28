@@ -191,10 +191,23 @@
   font-weight: 400;
   color: #86868B;
   line-height: 1.6;
+  margin-bottom: 16px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.coming-soon-subtext {
+  font-size: 15px;
+  font-weight: 400;
+  color: #86868B;
+  font-style: italic;
+  line-height: 1.6;
   margin-bottom: 24px;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
+  opacity: 0.8;
 }
 
 .coming-soon-note {
