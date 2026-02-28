@@ -1,0 +1,38 @@
+.footer {
+  padding: 48px;
+  background-color: #1D1D1F;
+  border-top: 1px solid #2D2D2F;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 14px;
+  font-weight: 400;
+  color: #F5F5F7;
+  margin-bottom: 8px;
+}
+
+.footer-subtext {
+  font-size: 12px;
+  font-weight: 400;
+  color: #86868B;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 32px 24px;
+  }
+
+  .footer-text {
+    font-size: 13px;
+  }
+
+  .footer-subtext {
+    font-size: 11px;
+  }
+}
