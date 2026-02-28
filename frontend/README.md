@@ -51,4 +51,4 @@ yarn build
 
 ---
 
-**Built with ❤️ and attention to detail**
+**Built with ❤️ and attention to detail** 
