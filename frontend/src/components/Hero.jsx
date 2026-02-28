@@ -14,7 +14,7 @@ const Hero = () => {
     <section id="hero" className="hero-section">
       <div className="hero-content">
         <div className="hero-text">
-          <h1 className="hero-name">Adnan Murtaza Saleh</h1>
+          <h1 className="hero-name">Adnan Murtaza Bootwala</h1>
           <p className="hero-tagline">Engineering Ideas Into Impact.</p>
           <button onClick={scrollToAbout} className="hero-cta">
             Explore My Work
