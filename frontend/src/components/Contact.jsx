@@ -28,14 +28,14 @@ const Contact = () => {
               <span>+971 56 128 1852</span>
             </a>
             
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-item">
+            <a href="https://www.linkedin.com/in/adnanbootwala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer" className="contact-item">
               <Linkedin size={24} strokeWidth={1.5} />
               <span>LinkedIn</span>
             </a>
             
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="contact-item">
-              <Github size={24} strokeWidth={1.5} />
-              <span>GitHub</span>
+            <a href="https://www.instagram.com/4.m5b?igsh=bWg1NG53bDMzczJv&utm_source=qr" target="_blank" rel="noopener noreferrer" className="contact-item">
+              <Instagram size={24} strokeWidth={1.5} />
+              <span>Instagram</span>
             </a>
           </div>
         </div>
