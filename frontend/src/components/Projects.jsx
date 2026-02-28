@@ -106,6 +106,20 @@ const Projects = () => {
               </Card>
             );
           })}
+          
+          {/* Coming Soon Card */}
+          <Card className="project-card coming-soon-card">
+            <div className="coming-soon-content">
+              <div className="coming-soon-icon">
+                <Sparkles size={48} strokeWidth={1.5} />
+              </div>
+              <h3 className="coming-soon-title">More Exciting Projects Coming Soon</h3>
+              <p className="coming-soon-text">
+                Currently working on bigger and more impactful projects. Stay tuned for updates!
+              </p>
+              <div className="coming-soon-note">In Development</div>
+            </div>
+          </Card>
         </div>
       </div>
     </section>
