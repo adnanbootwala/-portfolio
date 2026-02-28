@@ -1,0 +1,46 @@
+# 🚀 DEPLOYMENT COMMANDS FOR ADNAN BOOTAWALA
+# Copy and paste these commands ONE BY ONE in your terminal
+
+# ============================================
+# STEP 1: Navigate to your frontend folder
+# ============================================
+cd /app/frontend
+
+# ============================================
+# STEP 2: Initialize Git
+# ============================================
+git init
+
+# ============================================
+# STEP 3: Add all your files
+# ============================================
+git add .
+
+# ============================================
+# STEP 4: Create your first commit
+# ============================================
+git commit -m "Initial commit: Professional portfolio website"
+
+# ============================================
+# STEP 5: Connect to YOUR GitHub repository
+# ============================================
+git remote add origin https://github.com/adnanbootwala/portfolio.git
+
+# ============================================
+# STEP 6: Set main branch
+# ============================================
+git branch -M main
+
+# ============================================
+# STEP 7: Push to GitHub (will ask for password)
+# ============================================
+git push -u origin main
+
+# ============================================
+# ✅ DONE! Your code is now on GitHub!
+# ============================================
+# 
+# Next step: Go to vercel.com and import your repository
+# Repository URL: https://github.com/adnanbootwala/portfolio
+# 
+# ============================================
