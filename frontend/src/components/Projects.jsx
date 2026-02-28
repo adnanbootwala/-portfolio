@@ -131,6 +131,9 @@ const Projects = () => {
               <p className="coming-soon-text">
                 Currently working on bigger and more impactful projects. Stay tuned for updates!
               </p>
+              <p className="coming-soon-subtext">
+                (More skills and projects exist… but let's be honest, nobody reads that far.)
+              </p>
               <div className="coming-soon-note">In Development</div>
             </div>
           </Card>
