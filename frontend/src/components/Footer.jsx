@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <p className="footer-text">
-          © {new Date().getFullYear()} Adnan Murtaza Saleh. All rights reserved.
+          © {new Date().getFullYear()} Adnanbootwala. All rights reserved.
         </p>
         <p className="footer-subtext">
           Built with precision and attention to detail.
