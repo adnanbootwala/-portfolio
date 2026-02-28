@@ -19,6 +19,20 @@ const projectsData = [
     tags: ['AI', 'FinTech', 'Hackathon']
   },
   {
+    icon: Bot,
+    title: 'AI-Powered Personal Assistant Platform',
+    organization: 'Personal Project',
+    type: 'Full-Stack Development',
+    description: 'Designed and developed a fully functional AI-powered chatbot to streamline daily tasks, automate workflows, and provide real-time assistance. Expanded beyond standard chat into a multi-purpose interactive platform featuring a playable chess engine and curated mini game library.',
+    highlights: [
+      'Secure third-party AI API integration',
+      'Modular system architecture',
+      'Interactive chess engine',
+      'Mini game library ecosystem'
+    ],
+    tags: ['AI', 'API Integration', 'Full-Stack']
+  },
+  {
     icon: Ship,
     title: 'STCW Training & STSDSD Certification',
     organization: 'BP Marine India',
