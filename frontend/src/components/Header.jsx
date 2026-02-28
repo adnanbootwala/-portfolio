@@ -24,7 +24,7 @@ const Header = () => {
     <header className={`header ${isScrolled ? 'scrolled' : ''}`}>
       <div className="header-content">
         <div className="header-logo" onClick={() => scrollToSection('hero')}>
-          Adnan M. Saleh
+          Adnan Bootwala
         </div>
         <nav className="header-nav">
           <button onClick={() => scrollToSection('about')} className="nav-link">About</button>
