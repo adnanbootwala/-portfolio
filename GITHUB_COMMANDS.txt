@@ -1,0 +1,34 @@
+# COPY-PASTE THESE COMMANDS
+
+## Step 1: Navigate to your frontend folder
+cd /app/frontend
+
+## Step 2: Initialize Git (if not already done)
+git init
+
+## Step 3: Add all your files
+git add .
+
+## Step 4: Create your first commit
+git commit -m "Initial commit: My professional portfolio"
+
+## Step 5: Connect to GitHub
+## ⚠️ IMPORTANT: Replace 'YOUR-GITHUB-USERNAME' with your actual GitHub username
+## Example: if your GitHub is github.com/adnanbootwala, use 'adnanbootwala'
+
+git remote add origin https://github.com/YOUR-GITHUB-USERNAME/portfolio.git
+
+## Step 6: Push to GitHub
+git branch -M main
+git push -u origin main
+
+## ✅ Done! Your code is now on GitHub!
+## 
+## Next: Go to vercel.com and import your repository
+## Then add your custom domain: adnanbootwala.com
+
+## IMPORTANT NOTES:
+## - Create the GitHub repository FIRST (before running these commands)
+## - Name it 'portfolio' or any name you prefer
+## - DO NOT initialize with README (leave it empty)
+## - Make sure you replace YOUR-GITHUB-USERNAME with your actual username
