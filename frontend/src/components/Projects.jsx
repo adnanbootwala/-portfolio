@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from './ui/card';
-import { Lightbulb, Ship, Trophy, Cpu } from 'lucide-react';
+import { Lightbulb, Ship, Trophy, Cpu, Sparkles } from 'lucide-react';
 import './Projects.css';
 
 const projectsData = [
